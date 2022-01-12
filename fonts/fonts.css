@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-BoldItalic.eot');
+    src: url('MajestiBanner-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-BoldItalic.woff2') format('woff2'),
+        url('MajestiBanner-BoldItalic.woff') format('woff'),
+        url('MajestiBanner-BoldItalic.ttf') format('truetype'),
+        url('MajestiBanner-BoldItalic.svg#MajestiBanner-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-Bold.eot');
+    src: url('MajestiBanner-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-Bold.woff2') format('woff2'),
+        url('MajestiBanner-Bold.woff') format('woff'),
+        url('MajestiBanner-Bold.ttf') format('truetype'),
+        url('MajestiBanner-Bold.svg#MajestiBanner-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-Heavy.eot');
+    src: url('MajestiBanner-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-Heavy.woff2') format('woff2'),
+        url('MajestiBanner-Heavy.woff') format('woff'),
+        url('MajestiBanner-Heavy.ttf') format('truetype'),
+        url('MajestiBanner-Heavy.svg#MajestiBanner-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner Book';
+    src: url('MajestiBanner-Book.eot');
+    src: url('MajestiBanner-Book.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-Book.woff2') format('woff2'),
+        url('MajestiBanner-Book.woff') format('woff'),
+        url('MajestiBanner-Book.ttf') format('truetype'),
+        url('MajestiBanner-Book.svg#MajestiBanner-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner Book';
+    src: url('MajestiBanner-BookItalic.eot');
+    src: url('MajestiBanner-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-BookItalic.woff2') format('woff2'),
+        url('MajestiBanner-BookItalic.woff') format('woff'),
+        url('MajestiBanner-BookItalic.ttf') format('truetype'),
+        url('MajestiBanner-BookItalic.svg#MajestiBanner-BookItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-HeavyItalic.eot');
+    src: url('MajestiBanner-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-HeavyItalic.woff2') format('woff2'),
+        url('MajestiBanner-HeavyItalic.woff') format('woff'),
+        url('MajestiBanner-HeavyItalic.ttf') format('truetype'),
+        url('MajestiBanner-HeavyItalic.svg#MajestiBanner-HeavyItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-Light.eot');
+    src: url('MajestiBanner-Light.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-Light.woff2') format('woff2'),
+        url('MajestiBanner-Light.woff') format('woff'),
+        url('MajestiBanner-Light.ttf') format('truetype'),
+        url('MajestiBanner-Light.svg#MajestiBanner-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-MediumItalic.eot');
+    src: url('MajestiBanner-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-MediumItalic.woff2') format('woff2'),
+        url('MajestiBanner-MediumItalic.woff') format('woff'),
+        url('MajestiBanner-MediumItalic.ttf') format('truetype'),
+        url('MajestiBanner-MediumItalic.svg#MajestiBanner-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-LightItalic.eot');
+    src: url('MajestiBanner-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-LightItalic.woff2') format('woff2'),
+        url('MajestiBanner-LightItalic.woff') format('woff'),
+        url('MajestiBanner-LightItalic.ttf') format('truetype'),
+        url('MajestiBanner-LightItalic.svg#MajestiBanner-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Majesti Banner';
+    src: url('MajestiBanner-Medium.eot');
+    src: url('MajestiBanner-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MajestiBanner-Medium.woff2') format('woff2'),
+        url('MajestiBanner-Medium.woff') format('woff'),
+        url('MajestiBanner-Medium.ttf') format('truetype'),
+        url('MajestiBanner-Medium.svg#MajestiBanner-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
